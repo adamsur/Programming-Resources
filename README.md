@@ -20,3 +20,9 @@ Language | Title | Hours
 :-- | :--: | :--:
 Bash | [Bash Guide](http://mywiki.wooledge.org/BashGuide) | 15
 Powershell | [Powershell in a Month](https://livebook.manning.com/book/learn-windows-powershell-in-a-month-of-lunches-third-edition/chapter-1/) | 1 Month
+
+## Lower-Level Languages
+Language | Title | Hours
+:-- | :--: | :--:
+C | [C Programming Language Book](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) | 30
+Assembly Lanuguage | [Assembly Language Step-By-Step Book](https://www.amazon.com/Assembly-Language-Step-Step-Third/dp/0470497025) | 80
